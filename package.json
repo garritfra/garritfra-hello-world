@@ -1,0 +1,23 @@
+{
+  "name": "garritfra-hello-world",
+  "version": "0.0.1",
+  "description": "Hello World!",
+  "main": "hello.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garritfra/garritfra-hello-world.git"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "Garrit Franke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garritfra/garritfra-hello-world/issues"
+  },
+  "homepage": "https://github.com/garritfra/garritfra-hello-world#readme"
+}
