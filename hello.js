@@ -1,1 +1,5 @@
-export default () => console.log("Hello World!");
+function helloWorld() {
+    console.log("Hello World!");
+}
+
+module.exports helloWorld();
